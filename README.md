@@ -18,9 +18,9 @@ The device decode by Machile learning the odors sensed with gas sensors and stim
 
 In Robotics Most of my courses was related to machine learning, system optimisation and mobile robotics.
 
-* [**Application of Bayes filters**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Application%20of%20Bayes%20filters.pdf) : Use baysian filter (Monte Carlo) to soled the localization problem for mobile robots.
-* [**Industrial SCARA Robot Adept**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Industrial%20SCARA%20Robot%20Adept.pdf) : Creating a small programm that allows to play tic-tac-toe with a SCARA Robots
+* [**Application of Bayes filters**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Application%20of%20Bayes%20filters.pdf) : Use baysian filter (Monte Carlo) to solved the localization problem for mobile robots.
+* [**Industrial SCARA Robot Adept**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Industrial%20SCARA%20Robot%20Adept.pdf) : Creating a small program that allows to play tic-tac-toe with a SCARA Robot
 * [**Teaching Robots**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Teaching%20Robots%20to%20Acomplish%20a%20Manipulation%20Task.pdf) : Identification(PCA), Estimation location (computer vision), generate motion of pick and drop (GMR and Kalman Filters)
 * [**Model Predictive Control**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Model_Predictive_Control.pdf) Develop an MPC controller to fly a quadcopter
-* [**Swimming with Salamandra**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Swimming%20with%20Salamandra.pdf) Control a salamander-like robot based on oscillatory Neural Network with Spikes
+* [**Swimming with Salamandra**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Swimming%20with%20Salamandra.pdf) Control a salamander-like robot based on oscillatory Neural Network (with Spikes)
 * [**Neural Network Muscle Model**](https://github.com/stanFurrer/Robotics_Master/blob/main/Robotics_Practicals/Neural%20Network%20Muscle%20Model.pdf) Use Spikes Neural Network to model a muscle
