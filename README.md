@@ -1,6 +1,6 @@
 # Robotics_Master
 This repository contain the most remarquable project that I have worked on during my Master in Robotics at EPFL. This repository doesn't contain the most avanced AI project that I have worked on.
-Note that this repository only contain PDF files and does't contain all the project.
+Note that this repository only contain PDF files and doesn't contain all the project.
 
 ## Implant
 
