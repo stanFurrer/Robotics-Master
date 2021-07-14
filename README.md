@@ -1,10 +1,11 @@
 # Robotics_Master
-This repository contain the most remarquable project that I have worked on during my Master in Robotics at EPFL. This repository doesn't contain the most advanced AI project that I have worked on.
-Note that this repository only contain PDF files and doesn't contain all the project.
+This repository contain the most remarquable project that I have worked on during my Master in Robotics at EPFL. This repository doesn't contain the most advanced AI project that I have worked on. (Please refer to the other GitHub repos)
+
+**Note :** this repository only contain PDF files and doesn't contain all the project.
 
 ## Implant
 
-I'm Specialize In medical Robotics. I have work a lot on impanted device, Sensors and machine learning for Medical purposes.
+I'm Specialize In medical Robotics. I have work a lot on implanted device, Sensors and machine learning for Medical purposes.
 
 * [**A Novel Approach To Aortic Restnosis**](https://github.com/stanFurrer/Robotics_Master/blob/main/Implant/A%20Novel%20Approach%20To%20Aortic%20Restenosis.pdf) : In this project we present a device whose goal is to address the need for early and precise detection of aortic restenosis
 immediately following stenosis treatment surgery. 
